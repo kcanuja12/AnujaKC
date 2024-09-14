@@ -1,1 +1,2 @@
 Hello everyone, first day of web class
+I learned to set up git hub account
